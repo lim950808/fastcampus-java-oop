@@ -1,4 +1,4 @@
-package com.fastcampus.fastcampusjavaoop;
+package com.fastcampus.javaoop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
